@@ -7,3 +7,4 @@ letter_list = [
 for row in letter_list:
     for column in row:
         print(column*(column+1))
+# comment
