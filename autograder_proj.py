@@ -4,20 +4,26 @@
 # 60 - 70 = D
 # 0 - 60 = F
 
-# get the score from the user
+# get the score from the user.
 score = float(input("Enter a score between 0 and 100:  "))
 
-if score >= 90 and score <= 100:
-    print("A")
+# check if score between the limit or not and put the grade.
+if not ( 0 <= score <= 100):
+    grade = None
+    print("Enter a number between 0 and 100")
+elif score >= 90 and score<=100:
+    grade = 'A'
 elif score >= 80:
-    print('B')
+    grade = 'B'
 elif score >= 70:
-    print('C')
+    grade = 'C'
 elif score >= 60:
-    print('D')
-elif score >= 0:
-    print('F')
+    grade = 'D'
 else:
-    print('Enter a number between 0 and 100')
+    grade = 'F'
+
+# print score and grade.
+if grade is not None:
+    print(f'your score is {score} and your grade is {grade}')
     
 
