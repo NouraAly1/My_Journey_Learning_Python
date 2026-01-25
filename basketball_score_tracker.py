@@ -3,20 +3,20 @@ count = 0
 
 while True:
     score_input = input("Enter score: ")
-    
+
     if score_input == 'done':
         break
-    
+
     try:
         score = int(score_input)
-    except:
+    except ValueError:
         print("Invalid score")
         continue
-    
+
     if score < 0:
         print("Score cannot be negative")
         continue
-    
+
     basketball_score.append(score)
     count += 1
 
@@ -29,6 +29,3 @@ if count > 0:
     print("Highest score:", basketball_score[-1])
 else:
     print("No valid score were entered")
-
-
-
