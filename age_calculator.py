@@ -22,6 +22,6 @@ if days < 0:
     days +=31
 
 # print age
-print(f'You are {years} years {months} months and {days} days old')
+print(f'You are {years} years {months} months old')
 
 #days are slightly in correct working on learning datetime module. 
