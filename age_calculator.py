@@ -24,4 +24,3 @@ if days < 0:
 # print age
 print(f'You are {years} years {months} months old')
 
-#days are slightly in correct working on learning datetime module. 
