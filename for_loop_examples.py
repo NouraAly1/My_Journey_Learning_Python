@@ -3,7 +3,8 @@
 
 # Example 1: Loop through each letter in a string
 for letter in "noura":
-    print(letter) Example 2: Loop through a list of names
+    print(letter) 
+# Example 2: Loop through a list of names
 kids = ["adam", "lily","amalia"]
 print(len(kids))
 for kid in kids:
