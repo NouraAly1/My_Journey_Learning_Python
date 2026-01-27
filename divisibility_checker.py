@@ -1,4 +1,4 @@
-# get numbers from user
+# Get numbers from user
 try:
     num = float(input("Enter a number: "))
 except ValueError:
@@ -12,16 +12,16 @@ except ValueError:
 if num_divide_by == 0:
     print("Error: Division by zero is not allowed")
     exit()
-#print underscore
+# Print separator line
 print("_"*20)
 
-# get the division result
+# Get the division result
 result = num / num_divide_by
 
-# print the division result
+# Print the division result
 print(f'The division result is {result}')
 
-# check if number is divisible by or not and print the statement
+# Check if number is divisible by or not and print the statement
 if num % num_divide_by == 0:
     print(f"{num} is divisible by {num_divide_by}")
 
