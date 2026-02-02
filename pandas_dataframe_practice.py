@@ -1,3 +1,8 @@
+'''
+This is a practice file for learning pandas DataFrame operations.
+Most code is commented out as examples for reference.
+'''
+
 import pandas as pd
 
 df = pd.read_excel('employee.xlsx')
