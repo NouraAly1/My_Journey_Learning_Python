@@ -1,14 +1,11 @@
-"""
-This is just practicing functions.
-This program calculates pay with overtime (1.5x rate for hours over 40).
-"""
 
+#This is just practicing functions.
+#This program calculates pay with overtime (1.5x rate for hours over 40).
+
+#Calculates the pay based on hours worked and hourly rate.
+#If hours exceed 40, calculates overtime pay at 1.5x the rate.
 
 def computepay(h, r):
-    """
-    Calculates the pay based on hours worked and hourly rate.
-    If hours exceed 40, calculates overtime pay at 1.5x the rate.
-    """
     # Convert inputs to float for calculations
     h = float(h)
     r = float(r)
