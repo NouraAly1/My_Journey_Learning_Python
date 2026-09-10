@@ -8,7 +8,7 @@ This repository is a practice log, not a single app. Each file is a small progra
 
 I want recruiters and interviewers to see how I learn. The early files cover language fundamentals. Later files move into lists, functions, error handling, pandas, Excel, and matplotlib.
 
-As I add projects, this README stays the index: what each program does, which Python ideas it uses, and how to run it.
+This README is the index: what each program does, which Python ideas it uses, and how to run it.
 
 ## Skills demonstrated
 
@@ -44,7 +44,7 @@ As I add projects, this README stays the index: what each program does, which Py
 | [age_calculator.py](age_calculator.py) | Calculate age from user input |
 | [weight_converter.py](weight_converter.py) | Convert weight between units |
 | [pay_calculator.py](pay_calculator.py) | Calculate pay from hours and rate |
-| [salary_cal.py](salary_cal.py) | Salary calculation practice |
+| [salary_calculator.py](salary_calculator.py) | Calculate monthly salary from hours and rate, including overtime after 100 hours |
 | [order_cost_calculator.py](order_cost_calculator.py) | Compute order cost |
 | [shopping_calculator.py](shopping_calculator.py) | Shopping total practice |
 | [money_distribution_calculator.py](money_distribution_calculator.py) | Split or distribute an amount of money |
@@ -57,7 +57,8 @@ As I add projects, this README stays the index: what each program does, which Py
 | [fruit_inventory_manager.py](fruit_inventory_manager.py) | Collect fruit names until `done`, skip empty input, then print a sorted summary |
 | [basketball_score_tracker.py](basketball_score_tracker.py) | Track game scores until `done`, reject invalid or negative values, then show lowest, highest, and game count |
 | [grocery_price_tracker.py](grocery_price_tracker.py) | Track grocery prices in a list |
-| [temperature_tracker.py](temperature_tracker.py) | Track temperature readings |
+| [temperature_tracker.py](temperature_tracker.py) | Collect temperature readings until `done`, then show min, max, and average |
+| [temperature_list.py](temperature_list.py) | Collect temperature readings until `done`, sort them, then show highest and lowest |
 | [username_proj.py](username_proj.py) | Username / string practice |
 | [employee_credentials_generator.py](employee_credentials_generator.py) | Build an employee ID from name and date of birth, and rewrite an email domain |
 
@@ -96,6 +97,6 @@ I keep each program small enough to read in one sitting so I can walk through th
 
 ## About me
 
-I am applying for internships and using this repository to show consistent practice in Python. If you are reviewing my application, the latest files are the best picture of where I am right now.
+I am a Computer Science bachelor's student graduating in 2027, with a current GPA of 4.0. I am applying for internships and using this repository to show consistent practice in Python. If you are reviewing my application, the latest files are the best picture of where I am right now.
 
-*This README will grow as I upload more advanced work.*
+I know Python at an intermediate level. Java is my main preferred language; I am using it now to learn data structures and algorithms and database as well. My Java work is in [java-learning-projects](https://github.com/NouraAly1/java-learning-projects). I am also studying communications and networking.
