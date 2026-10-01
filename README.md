@@ -99,4 +99,4 @@ I keep each program small enough to read in one sitting so I can walk through th
 
 I am a Computer Science bachelor's student graduating in 2027, with a current GPA of 4.0. I am applying for internships and using this repository to show consistent practice in Python. If you are reviewing my application, the latest files are the best picture of where I am right now.
 
-I know Python at an intermediate level. Java is my main preferred language; I am using it now to learn data structures and algorithms and database as well. My Java work is in [java-learning-projects](https://github.com/NouraAly1/java-learning-projects). I am also studying communications and networking.
+I know Python at an intermediate level. Java is my main preferred language; I am using it now to learn data structures and algorithms, and I am finishing Database I. I write SQL in SQLite: tables, primary and foreign keys, joins, and insert, update, and delete. That work is in [SQL-PROJECTS](https://github.com/NouraAly1/SQL-PROJECTS). My Java work is in [java-learning-projects](https://github.com/NouraAly1/java-learning-projects). I am also studying communications and networking.
